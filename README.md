@@ -10,4 +10,4 @@ npm create refine-app@latest -- --example with-custom-pages
 * add `/dist` to .gitignore
 * `npm run build`
 
-Then commit and verify on Cloudflare Pages
+Then commit, PR, and verify on Cloudflare Pages
